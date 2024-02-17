@@ -1,0 +1,7 @@
+.card-root {
+  width: 500px;
+  height: 600px;
+  -webkit-box-shadow: 4px 6px 42px -9px rgba(66, 68, 90, 1);
+  -moz-box-shadow: 4px 6px 42px -9px rgba(66, 68, 90, 1);
+  box-shadow: 4px 6px 42px -9px rgba(66, 68, 90, 1);
+}
